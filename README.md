@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OnderKaratas
 - 👀 I’m interested in 3D games and AI
-- 🌱 I’m currently learning deep learning 
-- 💞️ I’m looking to collaborate on 3D and 2D games
+- 🌱 I’m done with the deep learning 
+- 💞️ I’m looking to collaborate on 3D and 2D games, AI projects
 - 📫 How to reach me onder.karatas.164@gmail.com
 
 <!---
